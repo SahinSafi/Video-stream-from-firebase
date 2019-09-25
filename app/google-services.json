@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "274602029075",
+    "firebase_url": "https://fir-video-413b9.firebaseio.com",
+    "project_id": "fir-video-413b9",
+    "storage_bucket": "fir-video-413b9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:274602029075:android:7a17c5322cf3799c198fe6",
+        "android_client_info": {
+          "package_name": "com.cyberwith.firebasevideo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "274602029075-bcddmd6jb43jsg40nphnd40ebpkhb5io.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.cyberwith.firebasevideo",
+            "certificate_hash": "9d10789d8604806ddff133ac9de0d241387fea3e"
+          }
+        },
+        {
+          "client_id": "274602029075-0bu2dj3svd0k080dujj7qohghrqj3r5d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBpQjtys2SUxPJI9ApsLy3Pi43-uNxOxJ8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "274602029075-0bu2dj3svd0k080dujj7qohghrqj3r5d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
